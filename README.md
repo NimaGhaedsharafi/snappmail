@@ -1,5 +1,5 @@
 # SnappMail Configurations for Ferdi
-In order to add this recipie run the following commands based on platform
+In order to add this recipe run the following commands based on platform
 
 ### Mac:
 ```
