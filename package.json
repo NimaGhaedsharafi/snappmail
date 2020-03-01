@@ -1,0 +1,13 @@
+{
+    "id": "snapp-mail",
+    "name": "Snapp Mail Server",
+    "version": "1.0.1",
+    "description": "Snapp Mail Server",
+    "main": "index.js",
+    "author": "Nima Ghaedsharafi <ghaedsharafi.nima@gmail.com>",
+    "repository": "https://github.com/NimaGhaedsharafi/snappmail",
+    "license": "MIT",
+    "config": {
+        "serviceURL": "https://mail.snapp.cab/owa"
+    }
+}
