@@ -2,7 +2,7 @@
 In order to add this recipie run the following commands based on platform
 
 ### Mac:
-~/Library/Application Support/Franz/recipes/dev/
+mkdir -p ~/Library/Application\ Support/Ferdi/recipes/dev/ && "$_" && curl https://codeload.github.com/NimaGhaedsharafi/snappmail/zip/master -O && unzip master && rm "$_"
 
 ### Windows: 
 %appdata%/Franz/recipes/dev/
